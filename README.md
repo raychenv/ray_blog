@@ -1,3 +1,3 @@
-# firstapp
-https://tutorial.djangogirls.org/zh
-Django Girls Practice
+# Ray Blog
+
+Ray Blog is a practice based on https://tutorial.djangogirls.org/zh
